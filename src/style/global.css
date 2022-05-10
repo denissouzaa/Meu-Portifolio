@@ -26,6 +26,10 @@ body {
   height: 85vh;
 }
 
+.colorSobreMim {
+  color: #c4c4c4;
+}
+
 .verticalCenter {
   padding-top: 9%;
 }

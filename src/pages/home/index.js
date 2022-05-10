@@ -48,7 +48,7 @@ export default function Home() {
                         <div id="anchor1">
                             <h5 className='titleDestaque'>#Sobre mim</h5>
                             <div className='hr' />
-                            <p>Desenvolvedor Web com Experiência no Desenvolvimento de Sites e Aplicações. Conhecimento em Javascript, com Experiência em React, Angular, Css, Bootstrap, HTML5. Possuo também Experiência no Desenvolvimento de Aplicações Mobile com React-Native e Flutter.</p>
+                            <p className='colorSobreMim'>Desenvolvedor Web com Experiência no Desenvolvimento de Sites e Aplicações. Conhecimento em Javascript, com Experiência em React, Angular, Css, Bootstrap, HTML5. Possuo também Experiência no Desenvolvimento de Aplicações Mobile com React-Native e Flutter.</p>
                         </div>
                         <div id="anchor2">
                             <h5 className='titleDestaque'>#Projetos</h5>
