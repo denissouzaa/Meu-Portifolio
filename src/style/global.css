@@ -14,6 +14,14 @@ body {
   color: #00D2DF;
 }
 
+.hr {
+  width: 100%;
+  height: 0.1px;
+  background-color: #cccccc;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 .caixaCenter {
   height: 85vh;
 }
@@ -24,7 +32,7 @@ body {
 
 .titleDestaque {
   margin-top: 40px;
-  margin-bottom: 40px;
+  margin-bottom: 0px;
 }
 
 .buttonDestaque {
@@ -90,6 +98,9 @@ body {
   .gridHome {
     -ms-grid-columns: (1fr)[1];
         grid-template-columns: repeat(1, 1fr);
+  }
+  .verticalCenter {
+    padding-top: 20%;
   }
 }
 /*# sourceMappingURL=global.css.map */

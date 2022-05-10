@@ -47,10 +47,12 @@ export default function Home() {
                     <div className='col-md-12'>
                         <div id="anchor1">
                             <h5 className='titleDestaque'>#Sobre mim</h5>
+                            <div className='hr' />
                             <p>Desenvolvedor Web com Experiência no Desenvolvimento de Sites e Aplicações. Conhecimento em Javascript, com Experiência em React, Angular, Css, Bootstrap, HTML5. Possuo também Experiência no Desenvolvimento de Aplicações Mobile com React-Native e Flutter.</p>
                         </div>
                         <div id="anchor2">
                             <h5 className='titleDestaque'>#Projetos</h5>
+                            <div className='hr' />
                             <div className="gridHome">
                                 <div>
                                     <img alt="Imagem do Projeto" src={cupomking} />
@@ -88,7 +90,7 @@ export default function Home() {
                                     <p className='boxPortifolio'>Lançado para Android e IOS para cliente que desejava ter seu supermercado nas lojas de aplicativos.</p>
                                     <span>Kotlin, Swift</span><br/>
 
-                                    <a href='https://play.google.com/store/apps/details?id=flow.qrcode.barcode.scanner' target='_blank' rel='noreferrer'>
+                                    <a href='https://play.google.com/store/apps/details?id=br.com.fradeilha.www.supermercadofrade' target='_blank' rel='noreferrer'>
                                         <Button className='buttonDestaque mt-3'>Visualizar</Button>
                                     </a>
                                 </div>
